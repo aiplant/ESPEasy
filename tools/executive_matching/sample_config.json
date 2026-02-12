@@ -1,0 +1,17 @@
+{
+  "api": {
+    "qichacha_base_url": "https://api.qichacha.com",
+    "tianyancha_base_url": "https://open.api.tianyancha.com",
+    "rate_limit_qps": 2.0,
+    "request_timeout_sec": 30
+  },
+  "matching": {
+    "min_confidence_threshold": 0.6,
+    "name_fuzzy_max_distance": 1
+  },
+  "target_roles": ["CEO", "人力副总", "财务总监"],
+  "output_dir": "output",
+  "max_workers": 4,
+  "enable_cache": true,
+  "cache_dir": ".cache"
+}

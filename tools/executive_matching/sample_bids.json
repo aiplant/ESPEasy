@@ -1,0 +1,23 @@
+[
+  {
+    "company_name": "华为技术有限公司",
+    "project_name": "智慧城市数据平台建设项目",
+    "bid_type": "中标",
+    "amount": 58000000,
+    "date": "2024-03-15"
+  },
+  {
+    "company_name": "腾讯科技(深圳)有限公司",
+    "project_name": "云计算服务采购项目",
+    "bid_type": "招标",
+    "amount": 32000000,
+    "date": "2024-04-20"
+  },
+  {
+    "company_name": "阿里巴巴(中国)有限公司",
+    "project_name": "政务大数据分析平台",
+    "bid_type": "中标",
+    "amount": 45000000,
+    "date": "2024-05-10"
+  }
+]
